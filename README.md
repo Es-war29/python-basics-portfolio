@@ -5,6 +5,7 @@ Welcome to my Python Basics Portfolio! This repository showcases beginner-level 
 1. [Calculator App](calculator)
 2. [Guess the Number Game](guess_the_number)
 3. [Area Calculator](area_calculator)
+4. [SIP Calculator](sip_calculator)
 
 ---
 
