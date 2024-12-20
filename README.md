@@ -59,6 +59,26 @@ Estimated Returns:
 
 ---
 
+## 5. To-Do App
+**Description:**The To-Do List App is a command-line application written in Python that helps users manage their tasks. It allows users to add new tasks, view all tasks, mark tasks as completed, and save the tasks persistently to a file for later use. The app ensures that tasks are stored in a JSON file and reloads them upon restarting the program.
+**Features**
+
+-Add New Tasks
+
+-View Tasks
+
+-Mark Tasks as Completed
+
+-Persistent Storage
+
+-Error Handling
+
+**Skills Demonstarted:** Functions,Loops,Conditionals,User Inputs, Json file handling.
+**Code Link:** [To-Do APP](todo_app/README.md)
+
+---
+
+
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eswar-pillalamarri/) or check out my other projects on [GitHub](https://github.com/Es-war29).
 
