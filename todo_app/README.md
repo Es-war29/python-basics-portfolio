@@ -3,15 +3,19 @@ The To-Do List App is a command-line application written in Python that helps us
 
 ## Features
 - New Tasks
+  
 Users can add multiple tasks one by one.
 Tasks are stored with a status of "Not Done" by default.
 - View Tasks
+  
 Displays all tasks in a numbered list.
 Shows the status of each task ("Not Done" or "Done").
 - Completed Tasks
+  
 Users can mark specific tasks as completed by entering the task number.
 Supports marking multiple tasks until the user exits the marking process.
 - Save Tasks to a file
+
 Tasks are saved to a tasks.json file.
 Tasks are reloaded automatically when the program is restarted.
 
