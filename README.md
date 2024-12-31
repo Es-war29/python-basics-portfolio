@@ -1,4 +1,4 @@
-# Python Basics Portfolio
+# Python Basics Portfolio
 Welcome to my Python Basics Portfolio! This repository showcases beginner-level Python projects, highlighting my understanding of foundational Python concepts such as loops, functions, data manipulation, and visualization.
 
 ## Table of Contents
@@ -7,6 +7,7 @@ Welcome to my Python Basics Portfolio! This repository showcases beginner-level 
 3. [Area Calculator](area_calculator)
 4. [SIP Calculator](sip_calculator)
 5. [To-Do App](todo_app)
+6. [Digital Clock](digital_clock)
 
 ---
 
@@ -62,7 +63,8 @@ Estimated Returns:
 
 ## 5. To-Do App
 **Description:**The To-Do List App is a command-line application written in Python that helps users manage their tasks. It allows users to add new tasks, view all tasks, mark tasks as completed, and save the tasks persistently to a file for later use. The app ensures that tasks are stored in a JSON file and reloads them upon restarting the program.
-**Features**
+
+**Features:**
 
 -Add New Tasks
 
@@ -78,7 +80,28 @@ Estimated Returns:
 **Code Link:** [To-Do APP](todo_app/README.md)
 
 ---
+## 6. Digital CLock
 
+**Description:** This program is a simple digital clock application built using Python and PyQt5. The clock displays the current time in an easy-to-read digital format.
+
+**Features:**
+* Real-Time Clock: Displays the current time in the format hh:mm:ss AP (e.g., 12:45:30 PM).
+* Text is styled with a green color and a large font size.
+* Background is set to black for better readability.
+* Automatic Updates: The clock updates every second using a timer.
+
+
+**Requirements:**
+* Python 3.x
+* PyQt5 - install it.
+**Skills Demonstrated:** GUI Development with PyQt5,event-driven,Object-oriented design,real-time updates with timers and UI customization.
+**Code Link:** [Digital Clock](digital_clock/README.md)
+
+
+
+
+
+---
 
 ## Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/eswar-pillalamarri/) or check out my other projects on [GitHub](https://github.com/Es-war29).
