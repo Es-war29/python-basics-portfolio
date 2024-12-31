@@ -110,8 +110,10 @@ Estimated Returns:
 **Requirements:**
 * Python 3.x
 * pygame - install it.
-* Sound File - download a valid mp3 file of your choice or use "sound.mp3.
-**SKills Demonstrated:** Time handling, Looping, user interaction,condtion handling, modular programming,utilizing python libaries "datetime","time","pygame".
+* Sound File - download a valid mp3 file of your choice.
+  
+**SKills Demonstrated:** Time handling, Looping, user interaction, condition handling, modular programming, utilizing python libraries "datetime", "time", "pygame".
+  
 **Code LInk:** [Alarm](alarm/README.md)
 ---
 
