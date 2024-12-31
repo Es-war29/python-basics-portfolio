@@ -1,4 +1,4 @@
-# Python Basics Portfolio
+Python Basics Portfolio
 Welcome to my Python Basics Portfolio! This repository showcases beginner-level Python projects, highlighting my understanding of foundational Python concepts such as loops, functions, data manipulation, and visualization.
 
 ## Table of Contents
