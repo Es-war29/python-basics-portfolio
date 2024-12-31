@@ -13,6 +13,6 @@
 * Python 3.x
 * PyQt5 - install it.
 **Skills Demonstrated:** GUI Development with PyQt5,event-driven,Object-oriented design,real-time updates with timers and UI customization.
-**Code Link:** [Digital Clock](digital_clock/README.md)
+
 
 
