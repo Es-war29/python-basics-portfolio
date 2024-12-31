@@ -114,7 +114,7 @@ Estimated Returns:
   
 **SKills Demonstrated:** Time handling, Looping, user interaction, condition handling, modular programming, utilizing python libraries "datetime", "time", "pygame".
   
-**Code LInk:** [Alarm](alarm/README.md)
+**Code LInk:**[Alarm](alarm)
 ---
 
 ## Contact
