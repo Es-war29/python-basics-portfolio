@@ -8,7 +8,7 @@ Welcome to my Python Basics Portfolio! This repository showcases beginner-level 
 4. [SIP Calculator](sip_calculator)
 5. [To-Do App](todo_app)
 6. [Digital Clock](digital_clock)
-
+7. [Alarm](alarm)
 ---
 
 ## 1. Calculator App
@@ -66,15 +66,15 @@ Estimated Returns:
 
 **Features:**
 
--Add New Tasks
+* Add New Tasks
 
--View Tasks
+* View Tasks
 
--Mark Tasks as Completed
+* Mark Tasks as Completed
 
--Persistent Storage
+* Persistent Storage
 
--Error Handling
+* Error Handling
 
 **Skills Demonstarted:** Functions,Loops,Conditionals,User Inputs, Json file handling.
 **Code Link:** [To-Do APP](todo_app/README.md)
@@ -97,10 +97,22 @@ Estimated Returns:
 **Skills Demonstrated:** GUI Development with PyQt5,event-driven,Object-oriented design,real-time updates with timers and UI customization.
 **Code Link:** [Digital Clock](digital_clock/README.md)
 
+---
+## 7. Alarm 
 
+**Description:**The Python Alarm Clock is a simple script that allows you to set an alarm for a specific time of the day. When the alarm time is reached, it plays a sound to wake you up or notify you.
 
+**Features:**
+* Set Alarm: Input the desired alarm time in HH:MM:SS format.
+* Audio Notification: Plays a sound (sound.mp3) when the alarm goes off.
+* Real-Time Clock Display: Continuously shows the current time in the console.
 
-
+**Requirements:**
+* Python 3.x
+* pygame - install it.
+* Sound File - download a valid mp3 file of your choice or use "sound.mp3.
+**SKills Demonstrated:** Time handling, Looping, user interaction,condtion handling, modular programming,utilizing python libaries "datetime","time","pygame".
+**Code LInk:** [Alarm](alarm/README.md)
 ---
 
 ## Contact
